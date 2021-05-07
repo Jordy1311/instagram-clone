@@ -6,12 +6,12 @@ import 'firebase/auth';
 // import { seedDatabase } from '../seed';
 
 const config = {
-    apiKey: "AIzaSyAu751mPUzRXGmnlbc0bIlx86nTTaS672E",
-    authDomain: "instagram-yt-dbf4f.firebaseapp.com",
-    projectId: "instagram-yt-dbf4f",
-    storageBucket: "instagram-yt-dbf4f.appspot.com",
-    messagingSenderId: "538441614427",
-    appId: "1:538441614427:web:b38a075714108b66742b7e"
+ apiKey: 'AIzaSyAu751mPUzRXGmnlbc0bIlx86nTTaS672E',
+ authDomain: 'instagram-yt-dbf4f.firebaseapp.com',
+ projectId: 'instagram-yt-dbf4f',
+ storageBucket: 'instagram-yt-dbf4f.appspot.com',
+ messagingSenderId: '538441614427',
+ appId: '1:538441614427:web:b38a075714108b66742b7e'
 };
 
 const firebase = Firebase.initializeApp(config);
